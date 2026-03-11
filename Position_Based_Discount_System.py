@@ -18,4 +18,4 @@ for index, product in enumerate (products):
 
     final_prices.append(discounted_price)
 
-print("\nFinal prices")
+print("\nFinal prices", final_prices)
