@@ -1,0 +1,5 @@
+Q) What is enumerate()?
+ -> enumerate() is used when you want both the index and the value while looping.
+
+#for index, value in enumerate(list_name):
+#It returns (index, value)
